@@ -11,7 +11,7 @@ redirect_from:
 
 Cultural Scenes and Urban Landscapes
 ======
-* 2023.05-2024.05
+* 2022.11-2024.05
 * outcomes: an accepted paper, master's dissertation
 * research topics:
   * connected The Scenes Theory and urban landscapes, found how to improve urban landscapes by establishing cultural scenes during the post-industial poriod
