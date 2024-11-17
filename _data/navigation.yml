@@ -8,11 +8,11 @@ main:
   - title: "Education&Work"
     url: /education&work/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research Projects"
-    url: /research projects/    
+    url: /research projects/  
+    
+  - title: "Publications"
+    url: /publications1/  
     
   - title: "Honors&Awards"
     url: /honors&awards/
