@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education&Work"
-permalink: /cv/
+permalink: /education&work/
 author_profile: true
 redirect_from:
   - /resume
