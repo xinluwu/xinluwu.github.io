@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education background
 ======
 * M.S. in Urban Planning, Zhejiang University, 2021-2024
 * B.S. in Urban and Rural Planning, Henan University, 2016-2021
