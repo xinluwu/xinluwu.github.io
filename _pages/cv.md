@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education&Work"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Urban Planning, Zhejiang University, 2021-2024
+* B.S. in Urban and Rural Planning, Henan University, 2016-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Work: Zhejiang Shuzhi Space Planning and Design Co.
+  * 2024.07-present
+  * Assistant Planner
+  * I am mainly responsible for the planning and design work of territorial spatial planning, land planning, etc., proficient in the use of Arcgis, Photoshop and other processing work.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Internship: Shanghai Tongji Urban Planning & Design Institute Co., Ltd
+  * 2021.07-2021.08
+  * Internship Planner
+  * I was mainly involved in a project called Territorial Planning in Ningde City, Fujian Province, participated in the whole process: Established the GIS database, processed
+the data, prepared presentations, and completed other related tasks.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Internship: Urban Planning & Design Institute of Shenzhen (UPDIS) 
+  * 2020.10-2021.01
+  * Internship Planner
+  * I was mainly involved in a project called Urban Renewal Plan for the neighborhood of Shenzhen People's Hospital inCuizhu Street, Shenzhen. I analyzed the issues in the locality and conducted targeted regenerationactivities that aligned with the requirements of the residents. The skills I used was Powerpoint, AutoCAD.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ArcGIS
+* Adobe
+  * Photoshop
+  * Illustrator
+  * Indesign
+* Microsoft
+* Sketch Up
+* Rhino
+* Python
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
