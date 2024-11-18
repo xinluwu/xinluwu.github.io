@@ -14,10 +14,10 @@ Cultural Scenes and Urban Landscapes
 * 2022.11-2024.05
 * outcomes: an accepted paper, master's dissertation
 * research topics:
-  * connected The Scenes Theory and urban landscapes, found how to improve urban landscapes by establishing cultural scenes during the post-industial poriod
+  * connected The Scenes Theory and urban landscapes, found how to improve urban landscapes by establishing cultural scenes during the post-industrial period
   * constructed a framework from the perspectives of subjective perception and objective structure
   * used a combination of qualitative and quantitative methods, based on field research and social media data respectively
-  * proposed suggestions to improve urban landscape through the design ofcultural scenes with cultural values in Chinese context
+  * proposed suggestions to improve urban landscape through the design of cultural scenes with cultural values in Chinese context
 
 Hangzhou Transport Improvement Study Based on Urban Livability
 ======
