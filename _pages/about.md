@@ -14,13 +14,6 @@ I have received my master degree in Urban Planning from Zhejiang University(ZJU)
 ## **Research Interests in social justice and inclusive city**
 Analyzing possible inequities in the urban renewal process, especially gentrification
 
-#2
 
-# ## **News**
-07/2024
-
-06/2024
-
-05/2024
 
 
