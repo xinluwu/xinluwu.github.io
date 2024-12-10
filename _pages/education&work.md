@@ -11,8 +11,8 @@ redirect_from:
 
 Education background
 ======
-* MUP  in Urban Planning, Zhejiang University, 2021-2024
-* B.E. in Urban and Rural Planning, Henan University, 2016-2021
+* MUP, Urban Planning, Zhejiang University, 2021-2024
+* B.E., Urban and Rural Planning, Henan University, 2016-2021
 
 Work experience
 ======
