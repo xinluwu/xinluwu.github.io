@@ -12,7 +12,7 @@ redirect_from:
 Journal Articles
 ======
 
-* Wu, X., Yang& J.(2024). Urban Landscape Centering on Cultural Scenes: A Case Study of the Central City in Yifeng County, Jiangxi Province. *Chinese & Overseas Architecture*, 
+* Wu, X., & Yang, J.(2024). Urban Landscape Centering on Cultural Scenes: A Case Study of the Central City in Yifeng County, Jiangxi Province. *Chinese & Overseas Architecture*, 
 Accepted.
 
 Master Dissertation
