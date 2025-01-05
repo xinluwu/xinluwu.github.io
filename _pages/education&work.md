@@ -18,7 +18,7 @@ Work experience
 ======
 * Work: Zhejiang Shuzhi Space Planning and Design Co.
   * 2024.07-present
-  * Assistant Planner
+  * Planner
   * I am mainly responsible for the planning and design work of territorial spatial planning, land planning, etc., proficient in the use of Arcgis, Photoshop and other processing work.
 
 * Internship: Shanghai Tongji Urban Planning & Design Institute Co., Ltd
